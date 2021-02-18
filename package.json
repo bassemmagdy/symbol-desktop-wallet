@@ -163,7 +163,7 @@
     "mac": {
         "category": "public.app-category.finance",
         "target": "tar.gz",
-        "icon": "./assets/icons/Icon.incs",
+        "icon": "./assets/icons/Icon.icns",
         "hardenedRuntime": true,
         "gatekeeperAssess": false,
         "asarUnpack": [
@@ -190,6 +190,6 @@
     },
     "linux": {
         "category": "Finance",
-        "icon": "./assets/icons/Icon.incs"
+        "icon": "./assets/icons/Icon.icns"
     }
 }
